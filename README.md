@@ -15,6 +15,8 @@ Em seguida, abra o projeto no VisualStudio Code e clique com o botão direito no
 
 Obrigado por seu tempo!
 
+_______________________________________________________________________________________________________________________________________________________________________
+
 ### Site available on: https://bartoalheiros.github.io/html-jamilton-final-project/
 
 Repository created to accompany the final HTML project of Jamilton Damasceno's course on Udemy.com
